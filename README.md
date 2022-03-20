@@ -1,18 +1,37 @@
- 👋 Hi there, I’m Cornelis, a Computer Science & Econometrics student at University of Gdańsk. 
- 
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.README)
 
-- 👀 I’m interested in c
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- <h2 align='center'>Cornelis Puchowicz @ Laxmena</h2>
+<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<!---
-CornelisPuchowicz/CornelisPuchowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Hey there! 👋</h2>
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub followers](https://img.shields.io/github/followers/CornelisPuchowicz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CornelisPuchowicz?tab=followers)
+
+I'm Cornelis Puchowicz! 
+- <i>Currently:</i>  CS & Econometrics Student at University of Gdańsk. 
 
 
 
+<h2>💻 I'm Currently Learning</h2>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=CornelisPuchowicz&count_private=true&show_icons=true&hide=contribs)
+Tbc
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+
+Tbc
+
+
+
+<h2>👀 GitHub Stats</h2>
+
+Tbc
+
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:kornel.puchowicz@gmail.com">![kornel.puchowicz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+
+
+
