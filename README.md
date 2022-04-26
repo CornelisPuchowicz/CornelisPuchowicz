@@ -6,8 +6,8 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub followers](https://img.shields.io/github/followers/CornelisPuchowicz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CornelisPuchowicz?tab=followers)
 
-My name isCornelis Puchowicz,
-- <i> CS & Econometrics Student at University of Gdańsk.</i> 
+My name is Cornelis Puchowicz
+<i>I'm CS & Econometrics Student at University of Gdańsk.</i> 
 
 
 
