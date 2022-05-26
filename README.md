@@ -2,15 +2,16 @@
 <!-- <h2 align='center'>Cornelis Puchowicz @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<h2>Hi there! </h2>
+<h2>Hi there!👋</h2>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub followers](https://img.shields.io/github/followers/CornelisPuchowicz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CornelisPuchowicz?tab=followers)
+<h1>👷 About me </h1>
 
-My name is Cornelis Puchowicz <br>
-<i>I'm CS & Econometrics Student at University of Gdańsk.</i> 
-
-
-
+My name is <b> Cornelis Puchowicz </b> <br>
+- <i>I'm First year CS & Econometrics Student at University of Gdańsk.</i> 
+- <i>At the moment I'm preparing for ISTQB certification in summer
+- <i>Besides that I'm focusing around developing my skills in Java as well as SQL database
+- <i>In my private life I'm big fan of sports, chess, traveling and of course technology 👽 
+  
 <h2>💻 I'm Currently Learning</h2>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +37,9 @@ My name is Cornelis Puchowicz <br>
 
 <h2>👀 GitHub Stats</h2>
 
-Tbc
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub followers](https://img.shields.io/github/followers/CornelisPuchowicz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CornelisPuchowicz?tab=followers)
+
 
 
 <h2>📫 How to reach me:</h2>
