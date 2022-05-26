@@ -7,10 +7,11 @@
 <h1>👷 About me </h1>
 
 My name is <b> Cornelis Puchowicz </b> <br>
-- <i>I'm First year CS & Econometrics Student at University of Gdańsk.</i> 
-- <i>At the moment I'm preparing for ISTQB certification in summer
-- <i>Besides that I'm focusing around developing my skills in Java as well as SQL database
-- <i>In my private life I'm big fan of sports, chess, traveling and of course technology 👽 
+- I'm First year CS & Econometrics Student at University of Gdańsk.
+- I'm 19 years old.
+- At the moment I'm preparing for ISTQB certification in summer.
+- Besides that I'm focusing around developing my skills in Java as well as SQL database/
+- In my private life I'm big fan of sports, chess, traveling and of course technology. 👽 
   
 <h2>💻 I'm Currently Learning</h2>
 
