@@ -4,14 +4,10 @@
 
 <h2>Hi there!👋</h2>
 
-<h1>👷 About me </h1>
+<h1> About me </h1>
 
-My name is <b> Cornelis Puchowicz </b> <br>
-- I'm First year CS & Econometrics Student at University of Gdańsk.
-- I'm 19 years old.
-- At the moment I'm preparing for ISTQB certification in summer.
-- Besides that I'm focusing around developing my skills in Java as well as SQL database/
-- In my private life I'm big fan of sports, chess, traveling and of course technology. 👽 
+<p> My name is <b> Cornelis Puchowicz </b> <br> </p>
+I'm first year <b> CS & Econometrics Student </b> at <b> University of Gdańsk</b>. I'm 19 years old and at the moment I'm preparing for <b> ISTQB certification </b> in summer. Besides that I'm focusing around developing my skills in Java as well as SQL database. In my private life I'm big fan of sports, chess, traveling and of course technology. 👽 
   
 <h2>💻 I'm Currently Learning</h2>
 
