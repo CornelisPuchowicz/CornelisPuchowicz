@@ -35,8 +35,7 @@ I'm first year <b> CS & Econometrics Student </b> at <b> University of Gdańsk</
 <h2>👀 GitHub Stats</h2>
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub followers](https://img.shields.io/github/followers/Steelfri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Steelfri?tab=followers)
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub: @CornelisPuchowicz](https://img.shields.io/github/followers/CornelisPuchowicz?label=follow&style=social)](https://github.com/CornelisPuchowicz)
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:kornel.puchowicz@gmail.com">![kornel.puchowicz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
