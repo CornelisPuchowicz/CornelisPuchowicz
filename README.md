@@ -2,9 +2,9 @@
 <!-- <h2 align='center'>Cornelis Puchowicz @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<h2>Hi there!👋</h2>
+<h1>Hi there!👋</h1>
 
-<h1> About me </h1>
+<h2> About me </h2>
 
 <p> My name is <b> Cornelis Puchowicz </b> <br> </p>
 I'm first year <b> CS & Econometrics Student </b> at <b> University of Gdańsk</b>. I'm 19 years old and at the moment I'm preparing for <b> ISTQB certification </b> in summer. Besides that I'm focusing around developing my skills in Java as well as SQL database. In my private life I'm big fan of sports, chess, traveling and of course technology. 👽 
