@@ -37,7 +37,7 @@ I'm first year <b> CS & Econometrics Student </b> at <b> University of Gdańsk</
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) 
 
-
+[![GitHub followers](https://img.shields.io/github/followers/Steelfri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Steelfri?tab=followers)
 
 <h2>📫 How to reach me:</h2>
 
