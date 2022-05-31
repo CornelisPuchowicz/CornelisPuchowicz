@@ -38,6 +38,7 @@ I'm first year <b> CS & Econometrics Student </b> at <b> University of Gdańsk</
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CornelisPuchowicz.CornelisPuchowicz) [![GitHub: @CornelisPuchowicz](https://img.shields.io/github/followers/CornelisPuchowicz?label=follow&style=social)](https://github.com/CornelisPuchowicz)
 <h2>📫 How to reach me:</h2>
 
+<a href="https://www.linkedin.com/in/cornelis-puchowicz-a17066240/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />                </a>
 <a href="mailto:kornel.puchowicz@gmail.com">![kornel.puchowicz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 
