@@ -2,7 +2,7 @@
 <!-- <h2 align='center'>Cornelis Puchowicz @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<h1>Hi there!👋</h1>
+<h1>Hi there!</h1>
 
 <h2> About me </h2>
 
